@@ -19,4 +19,6 @@ My name is Anton Butov. I'm a passionate developer and technology enthusiast foc
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![KSP](https://img.shields.io/badge/KSP-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![TDD](https://img.shields.io/badge/TDD-FF6F00?style=flat-square&logo=testing-library&logoColor=white)
 
